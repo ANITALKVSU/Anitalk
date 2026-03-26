@@ -1,4 +1,4 @@
-[README (13).md](https://github.com/user-attachments/files/26280422/README.13.md)
+[README (14).md](https://github.com/user-attachments/files/26280544/README.14.md)
 # Milestone 1 - AniTalk (Unit 7)
 
 ## Table of Contents
@@ -125,7 +125,7 @@ AniTalk is a mobile anime community app that combines messaging, anime discovery
 
 Below is the hand-drawn wireframe for AniTalk:
 
-<img src="wireframe.jpeg" width="600" alt="AniTalk hand-drawn wireframe">
+![AniTalk Wireframe](wireframe.jpeg)
 
 <br>
 <br>
