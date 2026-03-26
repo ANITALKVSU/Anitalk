@@ -1,26 +1,26 @@
-# Milestone 1 - APP_NAME_HERE (Unit 7)
+[README (13).md](https://github.com/user-attachments/files/26280422/README.13.md)
+# Milestone 1 - AniTalk (Unit 7)
 
 ## Table of Contents
 
-1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
+1. [Overview](#overview)
+2. [Product Spec](#product-spec)
+3. [Wireframes](#wireframes)
 
 ## Overview
 
 ### Description
 
-[Description of your app]
+AniTalk is a mobile anime community app that combines messaging, anime discovery, trending discussions, and event exploration in one place. Users can create an account, personalize their profile, chat with other anime fans, view trending anime content, make posts, and explore anime-related events such as cosplay meetups and conventions.
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Social / Entertainment / Messaging
+- **Mobile:** Users can message others, browse anime content, post updates, and explore events directly from their phone.
+- **Story:** Anime fans often use multiple apps for messaging, anime updates, and event discovery. AniTalk brings these features together into one app built for the anime community.
+- **Market:** The app targets anime fans, cosplayers, and users who enjoy connecting with others through shared interests.
+- **Habit:** Users can return daily to check messages, view posts, follow trending anime, and discover upcoming events.
+- **Scope:** The first version will focus on account creation, login, profile setup, home feed, messaging, posting, and event discovery. Future versions can expand into recommendations, group chats, and advanced customization.
 
 ## Product Spec
 
@@ -28,53 +28,115 @@
 
 **Required Features**
 
-1. [fill in your required user features here]
-2. ...
-3. ...
+1. User can create an account.
+2. User can log in and log out.
+3. User can view a home screen with trending anime content.
+4. User can create posts related to anime.
+5. User can browse anime-related events.
+6. User can open a messaging section and chat with other users.
+7. User can view and edit a personal profile.
+8. User can search for anime and people.
 
 **Optional Features**
 
-1. [fill in your optional user features here]
-2. ...
-3. ...
+1. User can customize their profile page.
+2. User can follow other users.
+3. User can like or comment on posts.
+4. User can upload cosplay pictures.
+5. User can receive anime recommendations.
+6. User can save events to view later.
+7. User can add profile pictures and bios.
 
 ### 2. Screen Archetypes
 
-- [list first screen here]
-  - [list associated required story here]
-  - ...
-- [list second screen here]
-  - [list associated required story here]
-  - ...
+- **Landing / Welcome Screen**
+  - User sees the AniTalk logo and app entry screen.
+  - User can choose to start the app or move to sign up / login.
+
+- **Pre-made Account / Login Screen**
+  - User enters username and password.
+  - User logs into an existing account.
+
+- **Sign Up Screen**
+  - User enters username, email, and password.
+  - User creates a new account.
+
+- **Home Feed Screen**
+  - User views trending anime content.
+  - User views posts from the community.
+  - User can navigate to search, profile, events, and messages.
+
+- **Messaging Screen**
+  - User can browse conversations.
+  - User can send and receive messages.
+
+- **Profile Screen**
+  - User can view their profile picture, bio, anime favorites, followers, and following.
+  - User can customize personal information.
+
+- **Events Screen**
+  - User can browse anime, cosplay, and convention-related events.
+
+- **Search Screen**
+  - User can search for anime, people, or posts.
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Home
+* Messages
+* Search
+* Events
+* Profile
 
 **Flow Navigation** (Screen to Screen)
 
-- [list first screen here]
-  - [list screen navigation here]
-  - ...
-- [list second screen here]
-  - [list screen navigation here]
-  - ...
+- **Landing / Welcome Screen**
+  - Login Screen
+  - Sign Up Screen
+
+- **Login Screen**
+  - Home Feed Screen
+
+- **Sign Up Screen**
+  - Home Feed Screen
+
+- **Home Feed Screen**
+  - Messages Screen
+  - Search Screen
+  - Events Screen
+  - Profile Screen
+
+- **Messages Screen**
+  - Individual Chat Screen
+
+- **Profile Screen**
+  - Edit Profile Screen
+
+- **Events Screen**
+  - Event Details Screen
+
+- **Search Screen**
+  - Anime Result Screen
+  - User Profile Screen
 
 ## Wireframes
 
-[Add picture of your hand sketched wireframes in this section] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+Below is the hand-drawn wireframe for AniTalk:
+
+<img src="wireframe.jpeg" width="600" alt="AniTalk hand-drawn wireframe">
 
 <br>
-
 <br>
 
 ### [BONUS] Digital Wireframes & Mockups
 
+To be added in a future milestone.
+
 ### [BONUS] Interactive Prototype
+
+To be added in a future milestone.
 
 <br>
 
@@ -82,19 +144,25 @@
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with three milestones visible in
-this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+Add a screenshot of your GitHub Project Board here once Sprint 1 planning is complete.
+
+<img src="YOUR_PROJECT_BOARD_IMAGE_URL" width="600">
 
 ## Issue cards
 
-- [Add screenshot of your Project Board with the issues that you've been working on for this unit's milestone] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
-- [Add screenshot of your Project Board with the issues that you're working on in the **NEXT sprint**. It should include issues for next unit with assigned owners.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+- Add a screenshot showing the issues worked on during Sprint 1.
+- Add a screenshot showing the issues planned for the next sprint with assigned owners.
+
+<img src="YOUR_ISSUE_CARD_IMAGE_URL" width="600">
 
 ## Issues worked on this sprint
 
-- List the issues you completed this sprint
-- [Add giphy that shows current build progress for Milestone 2. Note: We will be looking for progression of work between Milestone 2 and 3. Make sure your giphys are not duplicated and clearly show the change from Sprint 1 to 2.]
+- Set up project repository and project board
+- Create initial app screens
+- Build login and sign-up UI
+- Build basic home feed layout
+- Create initial profile and messaging pages
+- Add gif showing current build progress for Milestone 2
 
 <br>
 
@@ -102,17 +170,27 @@ this section]
 
 ## GitHub Project board
 
-[Add screenshot of your Project Board with the updated status of issues for Milestone 3. Note that these should include the updated issues you worked on for this sprint and not be a duplicate of Milestone 2 Project board.] <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+Add an updated screenshot of the GitHub Project Board here for Sprint 2.
+
+<img src="YOUR_UPDATED_PROJECT_BOARD_IMAGE_URL" width="600">
 
 ## Completed user stories
 
-- List the completed user stories from this unit
-- List any pending user stories / any user stories you decided to cut
-from the original requirements
+- User can create an account
+- User can log in
+- User can browse the home feed
+- User can view profile information
+- User can open the messaging section
 
-[Add video/gif of your current application that shows build progress]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+## Pending / Cut User Stories
+
+- Advanced anime recommendations
+- Full event booking support
+- Group chats
+- Expanded profile customization
+
+<img src="YOUR_MILESTONE3_PROGRESS_GIF_URL" width="600">
 
 ## App Demo Video
 
-- Embed the YouTube/Vimeo link of your Completed Demo Day prep video
+- Embed the YouTube or Vimeo link for the completed demo video here.
