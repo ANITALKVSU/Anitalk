@@ -143,6 +143,18 @@ To be added in a future milestone.
 
 ## GitHub Project Board
 
+## Completed User Stories
+
+- [x] User can view the welcome screen
+- [x] User can navigate to login
+- [x] User can navigate to sign up
+- [x] User can view the basic home screen layout
+- [ ] User can create an account
+- [ ] User can log in with backend support
+- [ ] User can send messages
+- [ ] User can edit profile
+
+
 Add a screenshot of your GitHub Project Board here once Sprint 1 planning is complete.
 
 ![Project Board Screenshot](YOUR_PROJECT_BOARD_IMAGE_URL)
