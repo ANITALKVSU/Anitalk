@@ -1,0 +1,8 @@
+<resources>
+    <color name="anitalk_navy">#0A1D3D</color>
+    <color name="anitalk_blue">#1E4FA3</color>
+    <color name="anitalk_teal">#0B2E3C</color>
+    <color name="anitalk_dark">#13151B</color>
+    <color name="anitalk_surface">#1C1F26</color>
+    <color name="anitalk_text">#F4F6FB</color>
+</resources>

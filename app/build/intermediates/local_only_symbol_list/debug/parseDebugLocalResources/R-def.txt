@@ -1,0 +1,10 @@
+R_DEF: Internal format may change without notice
+local
+color anitalk_blue
+color anitalk_dark
+color anitalk_navy
+color anitalk_surface
+color anitalk_teal
+color anitalk_text
+string app_name
+style Theme.AniTalk

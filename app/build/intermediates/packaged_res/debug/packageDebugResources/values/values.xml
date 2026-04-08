@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="anitalk_blue">#1E4FA3</color>
+    <color name="anitalk_dark">#13151B</color>
+    <color name="anitalk_navy">#0A1D3D</color>
+    <color name="anitalk_surface">#1C1F26</color>
+    <color name="anitalk_teal">#0B2E3C</color>
+    <color name="anitalk_text">#F4F6FB</color>
+    <string name="app_name">AniTalk</string>
+    <style name="Theme.AniTalk" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/black</item>
+        <item name="android:windowLightStatusBar" ns1:targetApi="m">false</item>
+    </style>
+</resources>
