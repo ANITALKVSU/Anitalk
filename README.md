@@ -131,11 +131,8 @@ Below is the hand-drawn wireframe for AniTalk:
 
 ### [BONUS] Digital Wireframes & Mockups
 
-To be added in a future milestone.
+![Figma Mockup](https://www.figma.com/design/cGhg1l4C3yRXoJ1ztgpXr3/AniTalk?node-id=0-1&t=dfl0wo4Sp2MVAt9V-1)
 
-### [BONUS] Interactive Prototype
-
-To be added in a future milestone.
 
 <br>
 
