@@ -1,3 +1,4 @@
+[README_Prototype_GIF.md](https://github.com/user-attachments/files/26939648/README_Prototype_GIF.md)
 [README (15).md](https://github.com/user-attachments/files/26280675/README.15.md)
 # Milestone 1 - AniTalk (Unit 7)
 
@@ -170,7 +171,7 @@ Add a screenshot of your GitHub Project Board here once Sprint 1 planning is com
 - Built the login and sign-up screens
 - Created the basic home screen layout
 - Started profile and messaging page designs
-- Add a gif showing current build progress for Milestone 2
+- Current prototype progress is shown below.
 
 <br>
 
@@ -197,8 +198,10 @@ Add an updated screenshot of the GitHub Project Board here for Sprint 2.
 - Group chats
 - Expanded profile customization
 
-![Milestone 3 Progress](YOUR_MILESTONE3_PROGRESS_GIF_URL)
+![AniTalk Prototype Demo](./Anitalk%20Prototype%20Vid.gif)
 
 ## App Demo Video
 
-- Add the YouTube or Vimeo link for the completed demo video here.
+The AniTalk prototype GIF is embedded below and should play directly in the README when viewed on GitHub.
+
+![AniTalk Prototype Demo](./Anitalk%20Prototype%20Vid.gif)
