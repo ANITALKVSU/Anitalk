@@ -155,8 +155,7 @@ Below is the hand-drawn wireframe for AniTalk:
 
 Add a screenshot of your GitHub Project Board here once Sprint 1 planning is complete.
 
-![Project Board Screenshot](YOUR_PROJECT_BOARD_IMAGE_URL)
-
+![Project Board Screenshot](./Unit9%20projectboard.png)
 ## Issue Cards
 
 - Add a screenshot showing the issues worked on during Sprint 1.
