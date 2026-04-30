@@ -161,7 +161,7 @@ Add a screenshot of your GitHub Project Board here once Sprint 1 planning is com
 - Add a screenshot showing the issues worked on during Sprint 1.
 - Add a screenshot showing the issues planned for the next sprint with assigned owners.
 
-![Issue Cards Screenshot](YOUR_ISSUE_CARD_IMAGE_URL)
+![Issue Cards Screenshot](./Unit9%20projectboard.png)
 
 ## Issues Worked on This Sprint
 
